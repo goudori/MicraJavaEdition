@@ -1,0 +1,8 @@
+name: MicraJava_firework
+version: '${version}'
+main: plugin.micrajava_firework.Main
+api-version: '1.20'
+commands:
+  firework:
+    description: 花火を打ち上げるコマンド
+    usage: /firework
